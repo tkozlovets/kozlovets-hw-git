@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello B
+=======
+
+"Line from feature branch"git
+>>>>>>> develop
